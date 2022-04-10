@@ -15,10 +15,8 @@
 .oddthree,
 .oddfive {
     background-color: lightpink;
-    font-family: Verdana;
-    font-family: DejaVu Sans;
-    font-family: sans-serif;
-}
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    }
 .oddthree {
     font-size: 24px;
 }
