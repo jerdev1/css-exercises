@@ -11,3 +11,14 @@
     font-weight: bold;
 }
 
+.oddone,
+.oddthree,
+.oddfive {
+    background-color: lightpink;
+    font-family: Verdana;
+    font-family: DejaVu Sans;
+    font-family: sans-serif;
+}
+.oddthree {
+    font-size: 24px;
+}
